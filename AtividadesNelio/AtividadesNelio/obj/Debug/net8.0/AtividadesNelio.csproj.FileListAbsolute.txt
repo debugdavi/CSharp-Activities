@@ -1,0 +1,15 @@
+C:\Users\davil\Desktop\Projetos\C#\AtividadesNelio\AtividadesNelio\bin\Debug\net8.0\AtividadesNelio.exe
+C:\Users\davil\Desktop\Projetos\C#\AtividadesNelio\AtividadesNelio\bin\Debug\net8.0\AtividadesNelio.deps.json
+C:\Users\davil\Desktop\Projetos\C#\AtividadesNelio\AtividadesNelio\bin\Debug\net8.0\AtividadesNelio.runtimeconfig.json
+C:\Users\davil\Desktop\Projetos\C#\AtividadesNelio\AtividadesNelio\bin\Debug\net8.0\AtividadesNelio.dll
+C:\Users\davil\Desktop\Projetos\C#\AtividadesNelio\AtividadesNelio\bin\Debug\net8.0\AtividadesNelio.pdb
+C:\Users\davil\Desktop\Projetos\C#\AtividadesNelio\AtividadesNelio\obj\Debug\net8.0\AtividadesNelio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davil\Desktop\Projetos\C#\AtividadesNelio\AtividadesNelio\obj\Debug\net8.0\AtividadesNelio.AssemblyInfoInputs.cache
+C:\Users\davil\Desktop\Projetos\C#\AtividadesNelio\AtividadesNelio\obj\Debug\net8.0\AtividadesNelio.AssemblyInfo.cs
+C:\Users\davil\Desktop\Projetos\C#\AtividadesNelio\AtividadesNelio\obj\Debug\net8.0\AtividadesNelio.csproj.CoreCompileInputs.cache
+C:\Users\davil\Desktop\Projetos\C#\AtividadesNelio\AtividadesNelio\obj\Debug\net8.0\AtividadesNelio.sourcelink.json
+C:\Users\davil\Desktop\Projetos\C#\AtividadesNelio\AtividadesNelio\obj\Debug\net8.0\AtividadesNelio.dll
+C:\Users\davil\Desktop\Projetos\C#\AtividadesNelio\AtividadesNelio\obj\Debug\net8.0\refint\AtividadesNelio.dll
+C:\Users\davil\Desktop\Projetos\C#\AtividadesNelio\AtividadesNelio\obj\Debug\net8.0\AtividadesNelio.pdb
+C:\Users\davil\Desktop\Projetos\C#\AtividadesNelio\AtividadesNelio\obj\Debug\net8.0\AtividadesNelio.genruntimeconfig.cache
+C:\Users\davil\Desktop\Projetos\C#\AtividadesNelio\AtividadesNelio\obj\Debug\net8.0\ref\AtividadesNelio.dll

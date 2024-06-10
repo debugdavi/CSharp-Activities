@@ -1,0 +1,15 @@
+C:\Users\davil\Desktop\Projetos\C#\bancoPessoas\bancoPessoas\bin\Debug\net8.0\bancoPessoas.exe
+C:\Users\davil\Desktop\Projetos\C#\bancoPessoas\bancoPessoas\bin\Debug\net8.0\bancoPessoas.deps.json
+C:\Users\davil\Desktop\Projetos\C#\bancoPessoas\bancoPessoas\bin\Debug\net8.0\bancoPessoas.runtimeconfig.json
+C:\Users\davil\Desktop\Projetos\C#\bancoPessoas\bancoPessoas\bin\Debug\net8.0\bancoPessoas.dll
+C:\Users\davil\Desktop\Projetos\C#\bancoPessoas\bancoPessoas\bin\Debug\net8.0\bancoPessoas.pdb
+C:\Users\davil\Desktop\Projetos\C#\bancoPessoas\bancoPessoas\obj\Debug\net8.0\bancoPessoas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davil\Desktop\Projetos\C#\bancoPessoas\bancoPessoas\obj\Debug\net8.0\bancoPessoas.AssemblyInfoInputs.cache
+C:\Users\davil\Desktop\Projetos\C#\bancoPessoas\bancoPessoas\obj\Debug\net8.0\bancoPessoas.AssemblyInfo.cs
+C:\Users\davil\Desktop\Projetos\C#\bancoPessoas\bancoPessoas\obj\Debug\net8.0\bancoPessoas.csproj.CoreCompileInputs.cache
+C:\Users\davil\Desktop\Projetos\C#\bancoPessoas\bancoPessoas\obj\Debug\net8.0\bancoPessoas.sourcelink.json
+C:\Users\davil\Desktop\Projetos\C#\bancoPessoas\bancoPessoas\obj\Debug\net8.0\bancoPessoas.dll
+C:\Users\davil\Desktop\Projetos\C#\bancoPessoas\bancoPessoas\obj\Debug\net8.0\refint\bancoPessoas.dll
+C:\Users\davil\Desktop\Projetos\C#\bancoPessoas\bancoPessoas\obj\Debug\net8.0\bancoPessoas.pdb
+C:\Users\davil\Desktop\Projetos\C#\bancoPessoas\bancoPessoas\obj\Debug\net8.0\bancoPessoas.genruntimeconfig.cache
+C:\Users\davil\Desktop\Projetos\C#\bancoPessoas\bancoPessoas\obj\Debug\net8.0\ref\bancoPessoas.dll

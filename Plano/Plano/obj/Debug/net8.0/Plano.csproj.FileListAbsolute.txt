@@ -1,0 +1,15 @@
+C:\Users\davil\Desktop\Projetos\C#\Plano\Plano\bin\Debug\net8.0\Plano.exe
+C:\Users\davil\Desktop\Projetos\C#\Plano\Plano\bin\Debug\net8.0\Plano.deps.json
+C:\Users\davil\Desktop\Projetos\C#\Plano\Plano\bin\Debug\net8.0\Plano.runtimeconfig.json
+C:\Users\davil\Desktop\Projetos\C#\Plano\Plano\bin\Debug\net8.0\Plano.dll
+C:\Users\davil\Desktop\Projetos\C#\Plano\Plano\bin\Debug\net8.0\Plano.pdb
+C:\Users\davil\Desktop\Projetos\C#\Plano\Plano\obj\Debug\net8.0\Plano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davil\Desktop\Projetos\C#\Plano\Plano\obj\Debug\net8.0\Plano.AssemblyInfoInputs.cache
+C:\Users\davil\Desktop\Projetos\C#\Plano\Plano\obj\Debug\net8.0\Plano.AssemblyInfo.cs
+C:\Users\davil\Desktop\Projetos\C#\Plano\Plano\obj\Debug\net8.0\Plano.csproj.CoreCompileInputs.cache
+C:\Users\davil\Desktop\Projetos\C#\Plano\Plano\obj\Debug\net8.0\Plano.sourcelink.json
+C:\Users\davil\Desktop\Projetos\C#\Plano\Plano\obj\Debug\net8.0\Plano.dll
+C:\Users\davil\Desktop\Projetos\C#\Plano\Plano\obj\Debug\net8.0\refint\Plano.dll
+C:\Users\davil\Desktop\Projetos\C#\Plano\Plano\obj\Debug\net8.0\Plano.pdb
+C:\Users\davil\Desktop\Projetos\C#\Plano\Plano\obj\Debug\net8.0\Plano.genruntimeconfig.cache
+C:\Users\davil\Desktop\Projetos\C#\Plano\Plano\obj\Debug\net8.0\ref\Plano.dll

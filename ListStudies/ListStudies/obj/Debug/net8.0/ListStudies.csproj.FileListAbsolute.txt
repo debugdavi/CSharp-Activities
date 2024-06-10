@@ -1,0 +1,15 @@
+C:\Users\davil\Desktop\Projetos\C#\ListStudies\ListStudies\bin\Debug\net8.0\ListStudies.exe
+C:\Users\davil\Desktop\Projetos\C#\ListStudies\ListStudies\bin\Debug\net8.0\ListStudies.deps.json
+C:\Users\davil\Desktop\Projetos\C#\ListStudies\ListStudies\bin\Debug\net8.0\ListStudies.runtimeconfig.json
+C:\Users\davil\Desktop\Projetos\C#\ListStudies\ListStudies\bin\Debug\net8.0\ListStudies.dll
+C:\Users\davil\Desktop\Projetos\C#\ListStudies\ListStudies\bin\Debug\net8.0\ListStudies.pdb
+C:\Users\davil\Desktop\Projetos\C#\ListStudies\ListStudies\obj\Debug\net8.0\ListStudies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davil\Desktop\Projetos\C#\ListStudies\ListStudies\obj\Debug\net8.0\ListStudies.AssemblyInfoInputs.cache
+C:\Users\davil\Desktop\Projetos\C#\ListStudies\ListStudies\obj\Debug\net8.0\ListStudies.AssemblyInfo.cs
+C:\Users\davil\Desktop\Projetos\C#\ListStudies\ListStudies\obj\Debug\net8.0\ListStudies.csproj.CoreCompileInputs.cache
+C:\Users\davil\Desktop\Projetos\C#\ListStudies\ListStudies\obj\Debug\net8.0\ListStudies.sourcelink.json
+C:\Users\davil\Desktop\Projetos\C#\ListStudies\ListStudies\obj\Debug\net8.0\ListStudies.dll
+C:\Users\davil\Desktop\Projetos\C#\ListStudies\ListStudies\obj\Debug\net8.0\refint\ListStudies.dll
+C:\Users\davil\Desktop\Projetos\C#\ListStudies\ListStudies\obj\Debug\net8.0\ListStudies.pdb
+C:\Users\davil\Desktop\Projetos\C#\ListStudies\ListStudies\obj\Debug\net8.0\ListStudies.genruntimeconfig.cache
+C:\Users\davil\Desktop\Projetos\C#\ListStudies\ListStudies\obj\Debug\net8.0\ref\ListStudies.dll

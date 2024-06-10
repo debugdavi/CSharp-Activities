@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\davil\\Desktop\\Projetos\\C#\\bancoPessoas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DCA1A2-A4A4-418D-8683-10A683BB670B}|bancoPessoas\\bancoPessoas.csproj|c:\\users\\davil\\desktop\\projetos\\c#\\bancopessoas\\bancopessoas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DCA1A2-A4A4-418D-8683-10A683BB670B}|bancoPessoas\\bancoPessoas.csproj|solutionrelative:bancopessoas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DCA1A2-A4A4-418D-8683-10A683BB670B}|bancoPessoas\\bancoPessoas.csproj|c:\\users\\davil\\desktop\\projetos\\c#\\bancopessoas\\bancopessoas\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DCA1A2-A4A4-418D-8683-10A683BB670B}|bancoPessoas\\bancoPessoas.csproj|solutionrelative:bancopessoas\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conta.cs",
+              "DocumentMoniker": "C:\\Users\\davil\\Desktop\\Projetos\\C#\\bancoPessoas\\bancoPessoas\\Conta.cs",
+              "RelativeDocumentMoniker": "bancoPessoas\\Conta.cs",
+              "ToolTip": "C:\\Users\\davil\\Desktop\\Projetos\\C#\\bancoPessoas\\bancoPessoas\\Conta.cs",
+              "RelativeToolTip": "bancoPessoas\\Conta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T17:18:52.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\davil\\Desktop\\Projetos\\C#\\bancoPessoas\\bancoPessoas\\Program.cs",
+              "RelativeDocumentMoniker": "bancoPessoas\\Program.cs",
+              "ToolTip": "C:\\Users\\davil\\Desktop\\Projetos\\C#\\bancoPessoas\\bancoPessoas\\Program.cs",
+              "RelativeToolTip": "bancoPessoas\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T17:18:09.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

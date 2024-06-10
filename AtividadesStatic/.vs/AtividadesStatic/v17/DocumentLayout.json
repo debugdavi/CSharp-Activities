@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\davil\\Desktop\\Projetos\\C#\\AtividadesStatic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04746876-6F5E-46B5-84CB-36D4570005BD}|AtividadesStatic\\AtividadesStatic.csproj|c:\\users\\davil\\desktop\\projetos\\c#\\atividadesstatic\\atividadesstatic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04746876-6F5E-46B5-84CB-36D4570005BD}|AtividadesStatic\\AtividadesStatic.csproj|solutionrelative:atividadesstatic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04746876-6F5E-46B5-84CB-36D4570005BD}|AtividadesStatic\\AtividadesStatic.csproj|c:\\users\\davil\\desktop\\projetos\\c#\\atividadesstatic\\atividadesstatic\\conversordemoeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04746876-6F5E-46B5-84CB-36D4570005BD}|AtividadesStatic\\AtividadesStatic.csproj|solutionrelative:atividadesstatic\\conversordemoeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\davil\\Desktop\\Projetos\\C#\\AtividadesStatic\\AtividadesStatic\\Program.cs",
+              "RelativeDocumentMoniker": "AtividadesStatic\\Program.cs",
+              "ToolTip": "C:\\Users\\davil\\Desktop\\Projetos\\C#\\AtividadesStatic\\AtividadesStatic\\Program.cs",
+              "RelativeToolTip": "AtividadesStatic\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T12:35:17.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConversorDeMoeda.cs",
+              "DocumentMoniker": "C:\\Users\\davil\\Desktop\\Projetos\\C#\\AtividadesStatic\\AtividadesStatic\\ConversorDeMoeda.cs",
+              "RelativeDocumentMoniker": "AtividadesStatic\\ConversorDeMoeda.cs",
+              "ToolTip": "C:\\Users\\davil\\Desktop\\Projetos\\C#\\AtividadesStatic\\AtividadesStatic\\ConversorDeMoeda.cs",
+              "RelativeToolTip": "AtividadesStatic\\ConversorDeMoeda.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T12:38:32.642Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\davil\Desktop\Projetos\C#\TesteString\TesteString\bin\Debug\net8.0\TesteString.exe
+C:\Users\davil\Desktop\Projetos\C#\TesteString\TesteString\bin\Debug\net8.0\TesteString.deps.json
+C:\Users\davil\Desktop\Projetos\C#\TesteString\TesteString\bin\Debug\net8.0\TesteString.runtimeconfig.json
+C:\Users\davil\Desktop\Projetos\C#\TesteString\TesteString\bin\Debug\net8.0\TesteString.dll
+C:\Users\davil\Desktop\Projetos\C#\TesteString\TesteString\bin\Debug\net8.0\TesteString.pdb
+C:\Users\davil\Desktop\Projetos\C#\TesteString\TesteString\obj\Debug\net8.0\TesteString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davil\Desktop\Projetos\C#\TesteString\TesteString\obj\Debug\net8.0\TesteString.AssemblyInfoInputs.cache
+C:\Users\davil\Desktop\Projetos\C#\TesteString\TesteString\obj\Debug\net8.0\TesteString.AssemblyInfo.cs
+C:\Users\davil\Desktop\Projetos\C#\TesteString\TesteString\obj\Debug\net8.0\TesteString.csproj.CoreCompileInputs.cache
+C:\Users\davil\Desktop\Projetos\C#\TesteString\TesteString\obj\Debug\net8.0\TesteString.sourcelink.json
+C:\Users\davil\Desktop\Projetos\C#\TesteString\TesteString\obj\Debug\net8.0\TesteString.dll
+C:\Users\davil\Desktop\Projetos\C#\TesteString\TesteString\obj\Debug\net8.0\refint\TesteString.dll
+C:\Users\davil\Desktop\Projetos\C#\TesteString\TesteString\obj\Debug\net8.0\TesteString.pdb
+C:\Users\davil\Desktop\Projetos\C#\TesteString\TesteString\obj\Debug\net8.0\TesteString.genruntimeconfig.cache
+C:\Users\davil\Desktop\Projetos\C#\TesteString\TesteString\obj\Debug\net8.0\ref\TesteString.dll

@@ -1,0 +1,15 @@
+C:\Users\davil\Desktop\Projetos\C#\VecStudies\VecStudies\bin\Debug\net8.0\VecStudies.exe
+C:\Users\davil\Desktop\Projetos\C#\VecStudies\VecStudies\bin\Debug\net8.0\VecStudies.deps.json
+C:\Users\davil\Desktop\Projetos\C#\VecStudies\VecStudies\bin\Debug\net8.0\VecStudies.runtimeconfig.json
+C:\Users\davil\Desktop\Projetos\C#\VecStudies\VecStudies\bin\Debug\net8.0\VecStudies.dll
+C:\Users\davil\Desktop\Projetos\C#\VecStudies\VecStudies\bin\Debug\net8.0\VecStudies.pdb
+C:\Users\davil\Desktop\Projetos\C#\VecStudies\VecStudies\obj\Debug\net8.0\VecStudies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davil\Desktop\Projetos\C#\VecStudies\VecStudies\obj\Debug\net8.0\VecStudies.AssemblyInfoInputs.cache
+C:\Users\davil\Desktop\Projetos\C#\VecStudies\VecStudies\obj\Debug\net8.0\VecStudies.AssemblyInfo.cs
+C:\Users\davil\Desktop\Projetos\C#\VecStudies\VecStudies\obj\Debug\net8.0\VecStudies.csproj.CoreCompileInputs.cache
+C:\Users\davil\Desktop\Projetos\C#\VecStudies\VecStudies\obj\Debug\net8.0\VecStudies.sourcelink.json
+C:\Users\davil\Desktop\Projetos\C#\VecStudies\VecStudies\obj\Debug\net8.0\VecStudies.dll
+C:\Users\davil\Desktop\Projetos\C#\VecStudies\VecStudies\obj\Debug\net8.0\refint\VecStudies.dll
+C:\Users\davil\Desktop\Projetos\C#\VecStudies\VecStudies\obj\Debug\net8.0\VecStudies.pdb
+C:\Users\davil\Desktop\Projetos\C#\VecStudies\VecStudies\obj\Debug\net8.0\VecStudies.genruntimeconfig.cache
+C:\Users\davil\Desktop\Projetos\C#\VecStudies\VecStudies\obj\Debug\net8.0\ref\VecStudies.dll

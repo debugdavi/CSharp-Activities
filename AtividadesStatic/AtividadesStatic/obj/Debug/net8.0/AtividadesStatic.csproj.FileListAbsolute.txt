@@ -1,0 +1,15 @@
+C:\Users\davil\Desktop\Projetos\C#\AtividadesStatic\AtividadesStatic\bin\Debug\net8.0\AtividadesStatic.exe
+C:\Users\davil\Desktop\Projetos\C#\AtividadesStatic\AtividadesStatic\bin\Debug\net8.0\AtividadesStatic.deps.json
+C:\Users\davil\Desktop\Projetos\C#\AtividadesStatic\AtividadesStatic\bin\Debug\net8.0\AtividadesStatic.runtimeconfig.json
+C:\Users\davil\Desktop\Projetos\C#\AtividadesStatic\AtividadesStatic\bin\Debug\net8.0\AtividadesStatic.dll
+C:\Users\davil\Desktop\Projetos\C#\AtividadesStatic\AtividadesStatic\bin\Debug\net8.0\AtividadesStatic.pdb
+C:\Users\davil\Desktop\Projetos\C#\AtividadesStatic\AtividadesStatic\obj\Debug\net8.0\AtividadesStatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davil\Desktop\Projetos\C#\AtividadesStatic\AtividadesStatic\obj\Debug\net8.0\AtividadesStatic.AssemblyInfoInputs.cache
+C:\Users\davil\Desktop\Projetos\C#\AtividadesStatic\AtividadesStatic\obj\Debug\net8.0\AtividadesStatic.AssemblyInfo.cs
+C:\Users\davil\Desktop\Projetos\C#\AtividadesStatic\AtividadesStatic\obj\Debug\net8.0\AtividadesStatic.csproj.CoreCompileInputs.cache
+C:\Users\davil\Desktop\Projetos\C#\AtividadesStatic\AtividadesStatic\obj\Debug\net8.0\AtividadesStatic.sourcelink.json
+C:\Users\davil\Desktop\Projetos\C#\AtividadesStatic\AtividadesStatic\obj\Debug\net8.0\AtividadesStatic.dll
+C:\Users\davil\Desktop\Projetos\C#\AtividadesStatic\AtividadesStatic\obj\Debug\net8.0\refint\AtividadesStatic.dll
+C:\Users\davil\Desktop\Projetos\C#\AtividadesStatic\AtividadesStatic\obj\Debug\net8.0\AtividadesStatic.pdb
+C:\Users\davil\Desktop\Projetos\C#\AtividadesStatic\AtividadesStatic\obj\Debug\net8.0\AtividadesStatic.genruntimeconfig.cache
+C:\Users\davil\Desktop\Projetos\C#\AtividadesStatic\AtividadesStatic\obj\Debug\net8.0\ref\AtividadesStatic.dll

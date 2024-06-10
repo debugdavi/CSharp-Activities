@@ -1,0 +1,15 @@
+C:\Users\davil\Desktop\Projetos\C#\Atividades3\Atividades3\bin\Debug\net8.0\Atividades3.exe
+C:\Users\davil\Desktop\Projetos\C#\Atividades3\Atividades3\bin\Debug\net8.0\Atividades3.deps.json
+C:\Users\davil\Desktop\Projetos\C#\Atividades3\Atividades3\bin\Debug\net8.0\Atividades3.runtimeconfig.json
+C:\Users\davil\Desktop\Projetos\C#\Atividades3\Atividades3\bin\Debug\net8.0\Atividades3.dll
+C:\Users\davil\Desktop\Projetos\C#\Atividades3\Atividades3\bin\Debug\net8.0\Atividades3.pdb
+C:\Users\davil\Desktop\Projetos\C#\Atividades3\Atividades3\obj\Debug\net8.0\Atividades3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davil\Desktop\Projetos\C#\Atividades3\Atividades3\obj\Debug\net8.0\Atividades3.AssemblyInfoInputs.cache
+C:\Users\davil\Desktop\Projetos\C#\Atividades3\Atividades3\obj\Debug\net8.0\Atividades3.AssemblyInfo.cs
+C:\Users\davil\Desktop\Projetos\C#\Atividades3\Atividades3\obj\Debug\net8.0\Atividades3.csproj.CoreCompileInputs.cache
+C:\Users\davil\Desktop\Projetos\C#\Atividades3\Atividades3\obj\Debug\net8.0\Atividades3.sourcelink.json
+C:\Users\davil\Desktop\Projetos\C#\Atividades3\Atividades3\obj\Debug\net8.0\Atividades3.dll
+C:\Users\davil\Desktop\Projetos\C#\Atividades3\Atividades3\obj\Debug\net8.0\refint\Atividades3.dll
+C:\Users\davil\Desktop\Projetos\C#\Atividades3\Atividades3\obj\Debug\net8.0\Atividades3.pdb
+C:\Users\davil\Desktop\Projetos\C#\Atividades3\Atividades3\obj\Debug\net8.0\Atividades3.genruntimeconfig.cache
+C:\Users\davil\Desktop\Projetos\C#\Atividades3\Atividades3\obj\Debug\net8.0\ref\Atividades3.dll

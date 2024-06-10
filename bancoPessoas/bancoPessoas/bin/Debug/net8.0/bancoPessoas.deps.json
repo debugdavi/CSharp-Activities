@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "bancoPessoas/1.0.0": {
+        "runtime": {
+          "bancoPessoas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bancoPessoas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

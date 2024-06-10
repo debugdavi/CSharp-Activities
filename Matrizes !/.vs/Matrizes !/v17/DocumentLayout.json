@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\davil\\Desktop\\Projetos\\C#\\Matrizes !\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99650161-CA42-4B72-B614-AD3A7AC95A95}|Matrizes !\\Matrizes !.csproj|c:\\users\\davil\\desktop\\projetos\\c#\\matrizes !\\matrizes !\\pos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99650161-CA42-4B72-B614-AD3A7AC95A95}|Matrizes !\\Matrizes !.csproj|solutionrelative:matrizes !\\pos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pos.cs",
+              "DocumentMoniker": "C:\\Users\\davil\\Desktop\\Projetos\\C#\\Matrizes !\\Matrizes !\\Pos.cs",
+              "RelativeDocumentMoniker": "Matrizes !\\Pos.cs",
+              "ToolTip": "C:\\Users\\davil\\Desktop\\Projetos\\C#\\Matrizes !\\Matrizes !\\Pos.cs",
+              "RelativeToolTip": "Matrizes !\\Pos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:17:57.927Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

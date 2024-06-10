@@ -1,0 +1,5 @@
+C:\Users\davil\Desktop\Projetos\C#\Solutions\Solutions\obj\Debug\net8.0\Solutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davil\Desktop\Projetos\C#\Solutions\Solutions\obj\Debug\net8.0\Solutions.AssemblyInfoInputs.cache
+C:\Users\davil\Desktop\Projetos\C#\Solutions\Solutions\obj\Debug\net8.0\Solutions.AssemblyInfo.cs
+C:\Users\davil\Desktop\Projetos\C#\Solutions\Solutions\obj\Debug\net8.0\Solutions.csproj.CoreCompileInputs.cache
+C:\Users\davil\Desktop\Projetos\C#\Solutions\Solutions\obj\Debug\net8.0\Solutions.sourcelink.json
